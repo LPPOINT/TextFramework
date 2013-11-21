@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<module name="helloworld">
+  
+    
+  
+  
+  <pattern name="Hello">
+    <text>Привет</text>
+  </pattern>
+
+
+  <pattern name="WeatherToday">
+    <text type="text">Какая сегодня погода</text>
+    <text type="rose">[any("Покажи", "Показать")] погоду на сегодня</text>
+
+    <header name="n" value="v"></header>
+      
+    <contexts>
+      <pattern name="NextWeather">
+        <text type="regex">А завтра</text>
+      </pattern>
+    </contexts>  
+
+  </pattern>
+
+</module>

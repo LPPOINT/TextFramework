@@ -1,0 +1,5 @@
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Voice\bin\Debug\Rose.TextFramework.Voice.dll
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Voice\bin\Debug\Rose.TextFramework.Voice.pdb
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Voice\obj\Debug\Rose.TextFramework.Voice.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Voice\obj\Debug\Rose.TextFramework.Voice.dll
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Voice\obj\Debug\Rose.TextFramework.Voice.pdb

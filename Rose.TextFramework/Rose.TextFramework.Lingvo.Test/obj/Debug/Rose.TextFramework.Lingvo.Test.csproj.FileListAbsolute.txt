@@ -1,0 +1,13 @@
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\Rose.TextFramework.Lingvo.Test.exe.config
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\Rose.TextFramework.Lingvo.Test.exe
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\Rose.TextFramework.Lingvo.Test.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\Rose.TextFramework.Lingvo.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\Rose.TextFramework.Lingvo.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\obj\Debug\Rose.TextFramework.Lingvo.Test.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\obj\Debug\Rose.TextFramework.Lingvo.Test.exe
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\obj\Debug\Rose.TextFramework.Lingvo.Test.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\gren_consts.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo.Test\bin\Debug\gren_fx.dll

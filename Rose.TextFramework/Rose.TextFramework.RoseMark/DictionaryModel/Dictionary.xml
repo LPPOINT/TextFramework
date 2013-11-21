@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dictionary>
+
+  <section name="launch">
+    <string>Запустить</string>
+    <string>Запуск</string>
+    <string>Выполнить</string>
+    <string>Активировать</string>
+    <string>Начать</string>
+  </section>
+  
+</dictionary>

@@ -1,0 +1,8 @@
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo\bin\Debug\Rose.TextFramework.Lingvo.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo\bin\Debug\Rose.TextFramework.Lingvo.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo\obj\Debug\Rose.TextFramework.Lingvo.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo\obj\Debug\Rose.TextFramework.Lingvo.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Lingvo\obj\Debug\Rose.TextFramework.Lingvo.pdb

@@ -1,0 +1,12 @@
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\obj\Debug\Rose.TextFramework.RoseMark.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\bin\Debug\Rose.TextFramework.RoseMark.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\bin\Debug\Rose.TextFramework.RoseMark.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\obj\Debug\Rose.TextFramework.RoseMark.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\obj\Debug\Rose.TextFramework.RoseMark.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\bin\Debug\Rose.Common.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\bin\Debug\Rose.Common.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\bin\Debug\Rose.TextFramework.Lingvo.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\bin\Debug\Rose.TextFramework.Lingvo.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark\bin\Debug\HtmlAgilityPack.xml

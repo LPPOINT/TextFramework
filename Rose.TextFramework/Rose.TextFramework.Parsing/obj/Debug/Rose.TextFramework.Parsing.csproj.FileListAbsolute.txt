@@ -1,0 +1,16 @@
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.TextFramework.Parsing.dll
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.TextFramework.Parsing.pdb
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\obj\Debug\Rose.TextFramework.Parsing.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\obj\Debug\Rose.TextFramework.Parsing.dll
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\obj\Debug\Rose.TextFramework.Parsing.pdb
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.Common.dll
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.TextFramework.Moduling.dll
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.Common.pdb
+c:\users\sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.TextFramework.Moduling.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.TextFramework.RoseMark.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.TextFramework.RoseMark.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.TextFramework.Lingvo.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\Rose.TextFramework.Lingvo.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.Parsing\bin\Debug\HtmlAgilityPack.xml

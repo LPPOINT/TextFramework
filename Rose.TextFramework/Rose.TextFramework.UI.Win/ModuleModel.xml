@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<module name="helloworld">
+
+
+  <res>
+    <text name="doVerb" type="rose">[any("выведи", "покажи", "напиши", "написать", "получить", "вывести", "рассказать", "скажи", "сказать")]</text>
+    <text name="introWord">[may("Итак", "Чтож", "Ладно", "Что же", "Давай") type="word"]</text>
+    <text name="okVerb">[may("Итак", "Чтож", "Ладно", "Что же", "Давай") type="word"][any("выведи", "покажи", "напиши", "написать", "вывести", "рассказать", "скажи", "сказать")]</text>
+  </res>
+
+  <pattern name="Hello">
+    <text type="rose">привет [input("true") id="test"] мир [input("true") id="test2"] дела</text>
+  </pattern>
+
+  <pattern name="Search">
+    <text type="rose">[may("Итак", "Чтож", "Ладно", "Что же", "Давай") type="word"][any("поиск", "искать")] в [input("true") id="searchResource"] по [any("запросу", "строке")] [input("true") id="q"]</text>
+  </pattern>
+
+  <pattern name="SearchImgs">
+    <text weight="2,4" type="rose">[may("Итак", "Чтож", "Ладно", "Что же", "Давай") type="word"][any("поиск", "искать", "найти")] в [input("true") id="searchResource"] [any("картинки", "изображения", "фотографии")] по [any("запросу", "строке")] [input("true") id="q"]</text>
+    <text weight="2,4" type="rose">[may("Итак", "Чтож", "Ладно", "Что же", "Давай") type="word"][any("поиск", "искать", "найти")] [any("картинки", "изображения", "фотографии")] в [input("true") id="searchResource"] по [any("запросу", "строке")] [input("true") id="q"]</text>
+  </pattern>
+
+  <pattern name="Syns">
+    <text weight="4" type="rose">[use("introWord")][use("doVerb")] синонимы слова [input("true") id="sync"]</text>
+    <text weight="3" type="rose">[use("introWord")][use("doVerb")] синонимы [input("true") id="sync"]</text>
+    <text weight="3" type="rose">[use("introWord")][use("doVerb")] слова похожие на [input("true") id="sync"]</text>
+    <text weight="4,1488" type="rose">[use("introWord")][use("doVerb")] слова похожие на слово [input("true") id="sync"]</text>
+  </pattern>
+
+  <pattern name="RandomInt">
+    <text weight="5" type="rose">[use("introWord")][use("doVerb")] [any("случайное", "случайную", "любое", "любую", "рандомное", "рандомную", "какое-нибудь", "какую-нибудь")] [any("число", "цифру", "значение", "номер")] [any("от", "с", "начиная с")] [input() id="from"] [any("до", "заканчивая", "кончая", "и кончая")] [input() id="to"]</text>
+  </pattern>
+  
+  <pattern name="OpenChrome">
+    <text weight="4" type="rose">[use("introWord")][any("открой", "открыть", "открытие", "активировать", "запустить", "запусти", "активация")] [any("chrome", "google chrome", "google", "хром", "гугл хром", "браузера", "интернет", "браузер")]</text>
+  </pattern>
+
+  <pattern name="Time">
+    <text weight="2" type="rose">[use("okVerb")] текущее время</text>
+    <text weight="2" type="rose">[use("okVerb")] время</text>
+    <text weight="2" type="rose">время</text>
+    <text weight="2" type="rose">[use("okVerb")] который час</text>
+    <text weight="2" type="rose">который час</text>
+  </pattern>
+
+
+  <pattern name="Say">
+    <text type="rose">[use("okVerb")] [input("true") id="toSay"]</text>
+  </pattern>
+
+</module>

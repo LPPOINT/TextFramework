@@ -1,0 +1,4 @@
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UI.Models\bin\Debug\Rose.TextFramework.UI.Models.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UI.Models\bin\Debug\Rose.TextFramework.UI.Models.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UI.Models\obj\Debug\Rose.TextFramework.UI.Models.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UI.Models\obj\Debug\Rose.TextFramework.UI.Models.pdb

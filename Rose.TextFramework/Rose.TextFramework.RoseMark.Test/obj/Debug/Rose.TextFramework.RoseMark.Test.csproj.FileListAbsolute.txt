@@ -1,0 +1,15 @@
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\Rose.TextFramework.RoseMark.Test.exe.config
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\Rose.TextFramework.RoseMark.Test.exe
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\Rose.TextFramework.RoseMark.Test.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\Rose.TextFramework.RoseMark.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\Rose.TextFramework.RoseMark.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\obj\Debug\Rose.TextFramework.RoseMark.Test.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\obj\Debug\Rose.TextFramework.RoseMark.Test.exe
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\obj\Debug\Rose.TextFramework.RoseMark.Test.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\Rose.Common.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\Rose.Common.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\Rose.TextFramework.Lingvo.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\Rose.TextFramework.Lingvo.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.RoseMark.Test\bin\Debug\HtmlAgilityPack.xml

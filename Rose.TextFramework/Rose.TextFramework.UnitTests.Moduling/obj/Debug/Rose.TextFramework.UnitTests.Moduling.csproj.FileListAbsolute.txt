@@ -1,0 +1,16 @@
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.TextFramework.UnitTests.Moduling.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.TextFramework.UnitTests.Moduling.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.TextFramework.Moduling.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.Common.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.TextFramework.RoseMark.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.TextFramework.Lingvo.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.TextFramework.Moduling.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.Common.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.TextFramework.RoseMark.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\Rose.TextFramework.Lingvo.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\obj\Debug\Rose.TextFramework.UnitTests.Moduling.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\obj\Debug\Rose.TextFramework.UnitTests.Moduling.dll
+C:\Users\Sasha\documents\visual studio 2013\Projects\Rose.TextFramework\Rose.TextFramework.UnitTests.Moduling\obj\Debug\Rose.TextFramework.UnitTests.Moduling.pdb

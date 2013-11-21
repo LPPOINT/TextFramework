@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.Moduling", "Rose.TextFramework.Moduling\Rose.TextFramework.Moduling.csproj", "{77304D48-4A53-425A-B966-9AC35052E382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.Parsing", "Rose.TextFramework.Parsing\Rose.TextFramework.Parsing.csproj", "{07BCB0DD-00A6-4B03-BB96-2FBCD20BC555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.Common", "Rose.Common\Rose.Common.csproj", "{10B31D87-E383-4D40-9C4C-6326C58A70AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.Test", "Rose.Test\Rose.Test.csproj", "{867FF9BC-EB67-49C4-A960-993D40F5AF76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.Voice", "Rose.TextFramework.Voice\Rose.TextFramework.Voice.csproj", "{11AE93BF-1AE7-4926-99A8-276256FE382A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.RoseMark", "Rose.TextFramework.RoseMark\Rose.TextFramework.RoseMark.csproj", "{BE7D0A20-0106-483A-AAE5-66EE96C9D424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.RoseMark.Test", "Rose.TextFramework.RoseMark.Test\Rose.TextFramework.RoseMark.Test.csproj", "{6CCD03F9-B33F-4859-B2BA-DB3E3FC7374E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.Lingvo", "Rose.TextFramework.Lingvo\Rose.TextFramework.Lingvo.csproj", "{9EC851B1-3908-4A4A-B3C2-6D505DA4841B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.Lingvo.Test", "Rose.TextFramework.Lingvo.Test\Rose.TextFramework.Lingvo.Test.csproj", "{6469ED55-1443-4E5D-9E99-223EB3A3E6C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{B8CC0309-AA08-4614-9B17-C6E30900676C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.UnitTests.Moduling", "Rose.TextFramework.UnitTests.Moduling\Rose.TextFramework.UnitTests.Moduling.csproj", "{27A92955-7286-481C-A1C3-0CD460276C86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{48BEB95C-5F50-400E-AAE8-246B00A04F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.Utils.RMarkExpressionsChecker", "Rose.TextFramework.Utils.RMarkExpressionsChecker\Rose.TextFramework.Utils.RMarkExpressionsChecker.csproj", "{FDF93ACE-AAE8-45A5-A059-9D911DBB3790}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{9C5831AD-4952-49D1-AFFD-61057239277B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.UI.Win", "Rose.TextFramework.UI.Win\Rose.TextFramework.UI.Win.csproj", "{A1499EF2-AEC0-450F-93E3-2573E9D9D066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rose.TextFramework.UI.Models", "Rose.TextFramework.UI.Models\Rose.TextFramework.UI.Models.csproj", "{0CA5C8C2-19D0-4F8C-AE66-A145A91A83E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77304D48-4A53-425A-B966-9AC35052E382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77304D48-4A53-425A-B966-9AC35052E382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77304D48-4A53-425A-B966-9AC35052E382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77304D48-4A53-425A-B966-9AC35052E382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BCB0DD-00A6-4B03-BB96-2FBCD20BC555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BCB0DD-00A6-4B03-BB96-2FBCD20BC555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BCB0DD-00A6-4B03-BB96-2FBCD20BC555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BCB0DD-00A6-4B03-BB96-2FBCD20BC555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B31D87-E383-4D40-9C4C-6326C58A70AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B31D87-E383-4D40-9C4C-6326C58A70AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B31D87-E383-4D40-9C4C-6326C58A70AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B31D87-E383-4D40-9C4C-6326C58A70AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867FF9BC-EB67-49C4-A960-993D40F5AF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867FF9BC-EB67-49C4-A960-993D40F5AF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867FF9BC-EB67-49C4-A960-993D40F5AF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867FF9BC-EB67-49C4-A960-993D40F5AF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AE93BF-1AE7-4926-99A8-276256FE382A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AE93BF-1AE7-4926-99A8-276256FE382A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AE93BF-1AE7-4926-99A8-276256FE382A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AE93BF-1AE7-4926-99A8-276256FE382A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7D0A20-0106-483A-AAE5-66EE96C9D424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7D0A20-0106-483A-AAE5-66EE96C9D424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7D0A20-0106-483A-AAE5-66EE96C9D424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7D0A20-0106-483A-AAE5-66EE96C9D424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCD03F9-B33F-4859-B2BA-DB3E3FC7374E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCD03F9-B33F-4859-B2BA-DB3E3FC7374E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCD03F9-B33F-4859-B2BA-DB3E3FC7374E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCD03F9-B33F-4859-B2BA-DB3E3FC7374E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC851B1-3908-4A4A-B3C2-6D505DA4841B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC851B1-3908-4A4A-B3C2-6D505DA4841B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC851B1-3908-4A4A-B3C2-6D505DA4841B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC851B1-3908-4A4A-B3C2-6D505DA4841B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6469ED55-1443-4E5D-9E99-223EB3A3E6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6469ED55-1443-4E5D-9E99-223EB3A3E6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6469ED55-1443-4E5D-9E99-223EB3A3E6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6469ED55-1443-4E5D-9E99-223EB3A3E6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A92955-7286-481C-A1C3-0CD460276C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A92955-7286-481C-A1C3-0CD460276C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A92955-7286-481C-A1C3-0CD460276C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A92955-7286-481C-A1C3-0CD460276C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF93ACE-AAE8-45A5-A059-9D911DBB3790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF93ACE-AAE8-45A5-A059-9D911DBB3790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF93ACE-AAE8-45A5-A059-9D911DBB3790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF93ACE-AAE8-45A5-A059-9D911DBB3790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1499EF2-AEC0-450F-93E3-2573E9D9D066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1499EF2-AEC0-450F-93E3-2573E9D9D066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1499EF2-AEC0-450F-93E3-2573E9D9D066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1499EF2-AEC0-450F-93E3-2573E9D9D066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA5C8C2-19D0-4F8C-AE66-A145A91A83E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA5C8C2-19D0-4F8C-AE66-A145A91A83E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA5C8C2-19D0-4F8C-AE66-A145A91A83E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA5C8C2-19D0-4F8C-AE66-A145A91A83E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27A92955-7286-481C-A1C3-0CD460276C86} = {B8CC0309-AA08-4614-9B17-C6E30900676C}
+		{FDF93ACE-AAE8-45A5-A059-9D911DBB3790} = {48BEB95C-5F50-400E-AAE8-246B00A04F79}
+		{A1499EF2-AEC0-450F-93E3-2573E9D9D066} = {9C5831AD-4952-49D1-AFFD-61057239277B}
+		{0CA5C8C2-19D0-4F8C-AE66-A145A91A83E4} = {9C5831AD-4952-49D1-AFFD-61057239277B}
+	EndGlobalSection
+EndGlobal
